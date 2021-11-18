@@ -1,0 +1,17 @@
+.header-area{
+    background-color: #FFFBF0;
+}
+.top-heading{
+    color: #363958;
+    font-size: 54px;
+}
+.custom-color{
+    color: #FABE4C;
+}
+.custom-btn{
+    border:none;
+    background-color: #A4BC46;
+}
+.support-text{
+    margin-left: -54px;
+}
